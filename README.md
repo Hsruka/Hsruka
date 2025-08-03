@@ -2,6 +2,10 @@
 
 ###
 
+<h3 align="left">Languages and Tools:</h3>
+
+###
+
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
@@ -55,6 +59,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
+
+###
+
+<h3 align="left">Connect with me:</h3>
 
 ###
 
