@@ -21,6 +21,9 @@ Hi! I'm Esther Laosantiponlawut, a Computer Science student at Suan Sunandha Raj
   <a href="https://github.com/Hsruka" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="github logo" />
   </a>
+  <a href="https://github.com/Hsruka" target="_blank">
+    <img src="https://img.shields.io/badge/Linkedin-1877F2?style=flat-square&logo=github&logoColor=white" alt="github logo" />
+  </a>
   <a href="https://web.facebook.com/esther.laosantuoinlawut" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="facebook logo" />
   </a>
